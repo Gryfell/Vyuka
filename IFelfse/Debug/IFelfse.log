@@ -1,0 +1,3 @@
+﻿  kvíz.cpp
+C:\Users\Michal\source\repos\Výuka\IFelfse\kvíz.cpp(23,10): warning C4244: return: double se převádí na int; může dojít ke ztrátě dat.
+  IFelfse.vcxproj -> C:\Users\Michal\source\repos\Výuka\IFelfse\Debug\IFelfse.exe

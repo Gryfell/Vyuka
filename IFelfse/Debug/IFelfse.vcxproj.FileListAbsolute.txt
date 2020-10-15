@@ -1,0 +1,6 @@
+C:\Users\Michal\Desktop\programovani\IFelfse\Debug\IFelfse.exe
+C:\Users\Michal\Desktop\programovani\IFelfse\Debug\IFelfse.pdb
+C:\Users\Michal\OneDrive\Plocha\programovani\IFelfse\Debug\IFelfse.exe
+C:\Users\Michal\OneDrive\Plocha\programovani\IFelfse\Debug\IFelfse.pdb
+C:\Users\Michal\source\repos\Výuka\IFelfse\Debug\IFelfse.exe
+C:\Users\Michal\source\repos\Výuka\IFelfse\Debug\IFelfse.pdb

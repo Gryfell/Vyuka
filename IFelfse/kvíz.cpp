@@ -12,9 +12,6 @@ int android();
 
 
 int main() {
-
-	cout << "ahoj" << endl;
-	cout << "kurva nejde to" << endl;
 	cout << "vitej v mem kvizu......\n.............................." << endl;
 	int kontrola;
 	kontrola = microsoft();

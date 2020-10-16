@@ -5,7 +5,8 @@ using namespace std;
 
 
 int main() {
-	int a, b, c, d, x_1, x_2;
+	int a, b, c,
+	double d, x_1, x_2;
 
 	cout << "Zadejte postupne koeficienty a,b,c kvadraticke rovnice ax^2+bx+c=0:" << endl;
 	cin >> a;
@@ -20,15 +21,10 @@ int main() {
 	cout << x_1 << endl;//test vypsani
 	cout << x_2 << endl;//test vypsani
 
-	if (a,b,c,d!=0) {
+	if ((a,b,c,d) !=0) {
 		cout << "rovnice ma 2 realne koreny= " << x_1 << ",x2= " << x_2 << endl;
 
 	}
-		
-
-		
-
-
 
 		return 0;
 }

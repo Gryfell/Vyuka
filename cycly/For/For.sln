@@ -5,6 +5,12 @@ VisualStudioVersion = 16.0.30611.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "For", "For.vcxproj", "{8D9E63A9-5A5C-4C7B-9F5E-C3E50FD236BA}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ostatni", "ostatni", "{596E32A2-76C0-420C-90B1-5B2957C78BE4}"
+	ProjectSection(SolutionItems) = preProject
+		láhve na stole.cpp = láhve na stole.cpp
+		ryba.cpp = ryba.cpp
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64

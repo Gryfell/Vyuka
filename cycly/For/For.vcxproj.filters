@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ryba.cpp">
+    <ClCompile Include="interval.cpp">
       <Filter>Soubory zdrojů</Filter>
     </ClCompile>
   </ItemGroup>
